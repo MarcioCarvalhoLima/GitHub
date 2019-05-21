@@ -2,3 +2,4 @@ Alteracao 1
 Alteracao 2
 Alteracao 3: editando o arquivo.
 Alteracao 4: Subindo primeira alteração para o GitHub.
+Alteracao 5: Com a interface GUI
